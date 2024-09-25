@@ -1,9 +1,6 @@
 import { Card, CardContent } from "./ui/card";
-import { humanDuration, naturalTime } from "@/lib/utils";
 
 import { Badge } from "./ui/badge";
-import { CalendarIcon } from "@radix-ui/react-icons";
-import LikeButton from "./like-button";
 import Link from "next/link";
 import React from "react";
 import Thumbnail from "./thumbnail";
